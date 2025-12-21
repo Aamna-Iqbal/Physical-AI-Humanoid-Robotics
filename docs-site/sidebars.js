@@ -48,6 +48,15 @@ const sidebars = {
         'module-3-isaac-robot-brain/nav2-for-humanoid-navigation',
       ],
     },
+    {
+      type: 'category',
+      label: 'Module 4: Vision-Language-Action (VLA)',
+      items: [
+        'module-4-vla-course/voice-to-action',
+        'module-4-vla-course/llm-based-planning',
+        'module-4-vla-course/autonomous-humanoid-capstone',
+      ],
+    },
   ],
 };
 
